@@ -7,15 +7,22 @@ Note: SPO = SharePoint Online
 
 ## Requirements ##
 SPO repo where to store your data file.
+
 Minimum Power Automate license via M365 license entitlement.
+
 Enabled Microsoft Teams license.
+
 Access to available SPO repos to scan.
 
 
 ## Installation Instructions ##
 Download the Excel file: SPOFileAnalysis.xlsx
+
 Copy the file to a location in SPO.
 
+
 Download the solution.
+
 Import the solution.
+
 Edit the Power Automate Flow: Get Graph SPO knowledge source files metadata
