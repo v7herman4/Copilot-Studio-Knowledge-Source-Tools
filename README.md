@@ -66,6 +66,7 @@ Publish the Flow.
 Run the Flow to retrieve the list of files in the selected Repos. 
 - The Flow will loop through all the files in the Repos listed.
 - For each file, it will create an entry in the FileList tab.
+- Rough estimates show that the Flow processes 1 file every second. (i.e. 60 files will take 1 minute)
 - Once the Flow finishes running, open the file to view your results.
 
 Sort and filter on "File Type" and "Size (KB)" to identify problem areas like files over 200 MB or 500 MB. 
